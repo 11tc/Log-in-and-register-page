@@ -1,4 +1,4 @@
-A log-in page for a company.
+A log-in system.
 The content includes:
 1- Log-In page
 2- Sign-Up page
